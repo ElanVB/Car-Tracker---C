@@ -1,0 +1,15 @@
+		POI 					Arrival 					Departure 						Spent in
+--------------------------------------------------------------------------------------------------------------------
+        Stellenbosch                            N/A                            N/A          0 min
+              Tunnel                            N/A                            N/A          0 min
+             Mthatha                            N/A                            N/A          0 min
+           Worcester        Fri 2013-04-26 20:05:49        Fri 2013-04-26 20:56:10         50 min
+          Laingsburg        Fri 2013-04-26 22:18:55        Fri 2013-04-26 22:41:34         22 min
+       Beaufort West        Sat 2013-04-27 00:22:36        Sat 2013-04-27 00:57:08         34 min
+            Aberdeen        Sat 2013-04-27 02:11:16        Sat 2013-04-27 02:15:29          4 min
+      Graaff Reinett        Sat 2013-04-27 02:37:33        Sat 2013-04-27 02:45:45          8 min
+             Cradock        Sat 2013-04-27 03:59:37        Sat 2013-04-27 04:20:14         20 min
+           Tarkastad        Sat 2013-04-27 04:57:54        Sat 2013-04-27 05:06:07          8 min
+          Queenstown        Sat 2013-04-27 06:22:20        Sat 2013-04-27 07:08:43         46 min
+           Cofimvaba        Sat 2013-04-27 07:49:56        Sat 2013-04-27 08:21:18         31 min
+               Ncobo        Sat 2013-04-27 08:57:08        Sat 2013-04-27 09:04:28          7 min
